@@ -1,13 +1,4 @@
----
-title: WWDC18 Cooperation Notes
-tags: WWDC, notes
----
-
 # WWDC18 Cooperation Notes
-
-:::danger
-Today is all about software.
-:::
 
     Contributer:
     
