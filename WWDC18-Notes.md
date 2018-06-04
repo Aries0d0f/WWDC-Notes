@@ -177,7 +177,7 @@
         - 30% Faster
         - Reduce 75% model size
     - **NO MERGING** iOS <-> macOS
-    - Sneak Kit (Request: Spelling correction)
+    - Sneak Peek
     - Add UIKit (from iOS) into macOS
         - Using your iOS App in app
         - 2019 from developement
