@@ -1,9 +1,8 @@
 # WWDC18 Cooperation Notes
 
-    Contributer:
-    
-    白羊 (@aries0d0f)
-    海豹 (@seadog007)
+- Contributer:
+    - 白羊 [@aries0d0f](https://github.com/Aries0d0f)
+    - 海豹 [@seadog007](https://github.com/seadog007)
     
 
 ## iOS
@@ -24,14 +23,14 @@
         - Realistic Reading
         - LEGO
     - Photos
-        - Search suggestion $\to$ ML
-        - Effect suggestion $\to$ ML
-        - Shareing suggestion $\to$ ML
+        - Search suggestion -> ML
+        - Effect suggestion -> ML
+        - Shareing suggestion -> ML
         - Suggestion to share photo to contacts(?)
     - Siri
         - Shortcuts
             - Custom phrase
-        - Suggestions for live $\to$ AD(?)
+        - Suggestions for live -> AD(?)
     - Shortcuts App
         - Custom phrase to Siri
         - Like Workflow App
@@ -116,7 +115,7 @@
         - Live News
         - New Channel:
             - Salt
-            - C****+ (請求：拼字糾正)
+            - C****+ (Request: Spelling correction)
             - Charter Spectrum
     - Zero Sign-on
         - First supported: Charter Spectrum
@@ -177,8 +176,8 @@
             - in 8 mins on iMac Pro
         - 30% Faster
         - Reduce 75% model size
-    - **NO MERGING** iOS $\Leftrightarrow$ macOS
-    - Sneak Kit (請求：拼字糾正)
+    - **NO MERGING** iOS <-> macOS
+    - Sneak Kit (Request: Spelling correction)
     - Add UIKit (from iOS) into macOS
         - Using your iOS App in app
         - 2019 from developement
